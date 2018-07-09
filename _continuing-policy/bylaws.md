@@ -2,6 +2,7 @@
 title: POOCH Bylaws
 category: continuing-policy
 order: 1
+layout: default
 ---
 
 # ARTICLE I PURPOSE
