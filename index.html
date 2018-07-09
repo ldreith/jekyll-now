@@ -5,5 +5,11 @@ layout: default
 <div class="intro">
   This is an example website to demonstrate how POOCH might want to host its continuing policy document on GitHub.
   
+  {% for page in site.continuing-policy %}
+  
+  <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
+  
+  {% endfor %}
+  
   <a href="{{ site.baseurl }}/continuing-policy/">Continuing Policy</a>
 </div>
