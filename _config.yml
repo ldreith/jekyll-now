@@ -18,6 +18,7 @@ avatar: https://scontent.ftul1-1.fna.fbcdn.net/v/t1.0-9/36200329_244043006186047
 collections:
   continuing-policy:
     output: true
+    permalink: /:collection/:path
 
 # Includes an icon in the footer for each username you enter
 footer-links:
