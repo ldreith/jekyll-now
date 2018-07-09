@@ -1,3 +1,9 @@
+---
+title: Occupancy
+category: continuing-policy
+order: 2
+---
+
 # Occupancy
 
 ## Application Process
