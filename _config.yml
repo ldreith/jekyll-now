@@ -16,7 +16,7 @@ avatar: https://scontent.ftul1-1.fna.fbcdn.net/v/t1.0-9/36200329_244043006186047
 #
 
 collections:
-  continuing-policy:
+- continuing-policy:
     output: true
     permalink: /:collection/:path
 
