@@ -2,6 +2,7 @@
 title: Occupancy
 category: continuing-policy
 order: 2
+layout: default
 ---
 
 # Occupancy
