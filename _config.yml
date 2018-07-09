@@ -15,6 +15,9 @@ avatar: https://scontent.ftul1-1.fna.fbcdn.net/v/t1.0-9/36200329_244043006186047
 # Flags below are optional
 #
 
+collections:
+- continuing-policy
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
