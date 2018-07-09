@@ -77,6 +77,7 @@ No more than one month prior to the April all-member meeting each year, the Boar
 4. Plan for completion of Annual Report
 5. Old Business 
 6. New Business
+
 ## Section 7. Regular Meetings
 Other regular meetings of the Board of Directors shall be held without call as decided in advance by a majority of the Board of Directors. Such meetings shall not be held on any legal holidays. Notice of all such regular meetings shall be provided to all members of the Board of Directors at least one week prior to the set meeting date.
 ## Section 8. Special Meetings
