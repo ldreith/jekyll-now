@@ -1,3 +1,9 @@
+---
+title: POOCH Bylaws
+category: continuing-policy
+order: 1
+---
+
 # ARTICLE I PURPOSE
 ## Section 1. Purpose
 The People's Owned and Operated Collective Housing (POOCH) is a Not-for-Profit Corporation organized by its members to provide cooperative housing and educational experiences in the Lawrence, KS area so our members:
