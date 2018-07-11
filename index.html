@@ -14,3 +14,12 @@ layout: default
       {% endif %}
     {% endfor %}
 </ul>
+
+<h3>Agendas</h3>
+<ul>
+    {% for doc in site.agenda %}
+      {% if doc.category == "agenda" %}
+        <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>
