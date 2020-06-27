@@ -1,25 +1,18 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+<header>
+  <title>Lars Dreith</title>
+</header>
+<body>
+  <h1>Lars Dreith</h1>
 
-<div class="intro">
-  This is an example website to demonstrate how POOCH might want to host its continuing policy document on GitHub.
-</div>
-  
-<h3>Continuing Policy</h3>
-<ul>
-    {% for doc in site.continuing-policy %}
-      {% if doc.category == "continuing-policy" %}
-        <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-</ul>
+  <h2>Interests</h2>
+  <p>Non-formal adult education, computer programming, meeting new people, & outdoor activities.</p>
 
-<h3>Agendas</h3>
-<ul>
-    {% for doc in site.agenda %}
-      {% if doc.category == "agenda" %}
-        <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-</ul>
+  <h2>Education</h2>
+
+  <h2>Experience</h2>
+
+</body>
+
+</html>
